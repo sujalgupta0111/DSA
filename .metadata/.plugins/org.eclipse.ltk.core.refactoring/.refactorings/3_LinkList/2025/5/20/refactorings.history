@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.code.ADD.java&apos; to &apos;LinkLinkP.java&apos;&#x0D;&#x0A;- Original project: &apos;3_LinkList&apos;&#x0D;&#x0A;- Original element: &apos;com.code.ADD.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.code.LinkLinkP.java&apos;" description="Rename compilation unit &apos;ADD.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.code{ADD.java" name="LinkLinkP.java" references="false" stamp="1747238959034" version="1.0"/>
+</session>

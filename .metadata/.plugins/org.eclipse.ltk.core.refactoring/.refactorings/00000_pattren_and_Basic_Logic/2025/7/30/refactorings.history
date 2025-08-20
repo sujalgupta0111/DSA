@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;lasrgetsecondinarray.java&apos; to &apos;pattren_number.lasrgetsecondinarray.java&apos;&#x0D;&#x0A;- Original project: &apos;00000_pattren_and_Basic_Logic&apos;&#x0D;&#x0A;- Destination element: &apos;pattren_number.lasrgetsecondinarray.java&apos;&#x0D;&#x0A;- Original element: &apos;pattren_number.lasrgetsecondinarray.java&apos;" description="Copy compilation unit" destination="/src&lt;pattren_number{lasrgetsecondinarray.java" element1="/src&lt;pattren_number{lasrgetsecondinarray.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1753279676941" units="1" version="1.0"/>
+</session>

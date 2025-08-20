@@ -1,0 +1,12 @@
+package pattren_number;
+
+import java.util.Scanner;
+
+public class lasrgetsecondinarray {
+	public static void main(String ...strings )
+	{
+	   
+		
+	}
+
+}

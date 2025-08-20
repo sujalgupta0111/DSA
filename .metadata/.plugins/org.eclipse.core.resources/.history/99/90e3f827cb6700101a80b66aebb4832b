@@ -1,0 +1,23 @@
+package pattren_number;
+
+import java.util.Scanner;
+
+public class lasrgetsecondinarray {
+	
+	public static String num(int arr[])
+	{
+		String  ans=null;
+		int s=0;
+		int f=0;
+		
+		
+		
+	 return ans;	
+	}
+	public static void main(String ...strings )
+	{
+	   
+		
+	}
+
+}

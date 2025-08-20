@@ -1,0 +1,15 @@
+package com.leetcode.Easy.Again;
+
+public class plusOne_66 {
+	
+ public int[] plusOne(int[] digits) {
+	        int max = digits.length;
+			return digits;
+	    }
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

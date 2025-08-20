@@ -1,0 +1,36 @@
+package com.leetcode.Easy.Again;
+
+public class Merge_Sorted_Array_88 {
+
+	public void merge(int[] nums1, int m, int[] nums2, int n) {
+
+		int i = m-1;// nums1 ke liye
+		int j = n-1;// num2 ke liye
+		int k = m+n-1;// combine result ke liye
+		
+		
+		while(j>0)
+		{
+			if(i>0 && nums1[i]> nums2[j])
+			{
+				nums1[k]= nums1[i];
+				k--;
+				i--;
+				
+			}else
+			{
+				nums1[k]= nums2[j];
+				k--;
+				j--;
+			}
+		}
+
+				
+
+	}
+
+	public static void main(String[] args) {
+
+	}
+
+}
