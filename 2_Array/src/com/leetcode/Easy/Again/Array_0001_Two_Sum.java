@@ -2,7 +2,7 @@ package com.leetcode.Easy.Again;
 
 import java.util.Arrays;
 
-public class Array_1_Two_Sum {
+public class Array_0001_Two_Sum {
 	public static int[] twoSum(int[] nums, int target) {
 
 		for (int i = 1; i < nums.length; i++) {
@@ -25,3 +25,5 @@ public class Array_1_Two_Sum {
 	}
 
 }
+
+
