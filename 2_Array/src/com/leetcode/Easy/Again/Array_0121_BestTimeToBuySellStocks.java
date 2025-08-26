@@ -2,7 +2,7 @@ package com.leetcode.Easy.Again;
 
 import java.util.Arrays;
 
-public class Array_0121_Best_Time_to_buy_sel_stocks {
+public class Array_0121_BestTimeToBuySellStocks {
 
 	public static int maxProfit(int[] prices) {
 		int max = 0;

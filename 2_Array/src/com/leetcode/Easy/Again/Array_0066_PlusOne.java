@@ -2,7 +2,7 @@ package com.leetcode.Easy.Again;
 
 import java.util.Arrays;
 
-public class Array_0066_Plus_One {
+public class Array_0066_PlusOne {
 
 	public static int[] plusOne(int[] digits) {
 		//jaab sare ke sare 9 honge tabhi posiibile ki array increment ka chance bane 
@@ -31,6 +31,7 @@ public class Array_0066_Plus_One {
 		int arr[] = { 2, 7, 9, 9 };
 		int target = 9;
 		System.out.println(Arrays.toString(plusOne(arr)));
+		int min = Integer.MIN_VALUE;
 
 	}
 
