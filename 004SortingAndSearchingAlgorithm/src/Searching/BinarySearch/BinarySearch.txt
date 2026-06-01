@@ -1,0 +1,7 @@
+It is Suitable for Sorted array and find under root or perfect square kind of problems 
+Binary Search
+	Best Case O(1)	
+	Average Case O(log n)	
+	Worst Case O(log n)	
+	Space Complexity O(1)	
+	Notes / When to Use -> in case of sorted array

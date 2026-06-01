@@ -1,0 +1,9 @@
+It is Suitable for Sorted Array and it is less efficient than Binary search
+Jump Search	
+   Best Case	     O(1)
+   Average Case      O(√n)		
+   Worst Case        O(√n)	
+   Space Complexity  O(1)	
+   Notes / When to Use->works for unsorted data
+		
+I
